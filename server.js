@@ -1,5 +1,6 @@
 
+function HelloFun(name){
+    console.log("Hello! "+name)
+}
 
-console.log("Hello!")
-
-console.log("Alex")
+HelloFun("Haytham")
